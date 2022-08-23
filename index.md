@@ -7,3 +7,9 @@
 ```
 $ git init
 Initialized empty git repository in Users/skills/Projects/recipe-repository/.git/
+```
+
+# This is a task list
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
